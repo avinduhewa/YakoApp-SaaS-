@@ -1,0 +1,29 @@
+{
+  "name": "yako-app",
+  "version": "0.0.1",
+  "description": "SaaS application to run headless promotions",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinduhewa/YakoApp-SaaS-.git"
+  },
+  "author": "Avindu Hewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinduhewa/YakoApp-SaaS-/issues"
+  },
+  "homepage": "https://github.com/avinduhewa/YakoApp-SaaS-#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^14.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.0",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}
